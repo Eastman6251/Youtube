@@ -61,4 +61,3 @@ npm run build
 ```
 npm run lint
 ```
-/www.twitter.com/techreagan)
